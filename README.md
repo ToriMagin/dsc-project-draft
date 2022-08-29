@@ -63,7 +63,7 @@ Below is a list of the contents of this repository - instructions for using them
 
 ### Submit Your Project
 
-To submit your project, please follow the instructions in the "Project Submission & Review" page in the Milestones course.
+To submit your project, please follow the instructions in the "Project Submission & Review" page in the Milestones course.vvv
 
 ***
 ### Notes
